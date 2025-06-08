@@ -1,6 +1,6 @@
 #!/bin/bash
 # Base directory and subdirectory list
-THEME_DIR="$HOME/.hypr-theme-manager"
+THEME_DIR="$HOME/.config/hypr-theme-manager"
 SUBDIRS=("themes" "widgets" "selected")
 
 # Function to clear screen
