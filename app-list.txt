@@ -4,3 +4,9 @@ oh-my-zsh
 zen-browser
 kitty
 dolphin
+swww
+hypridle
+
+
+kvantum
+
