@@ -34,6 +34,11 @@ alias ls='eza -a --icons'
 alias ll='eza -al --icons'
 alias lt='eza -a --tree --level=1 --icons'
 
-
+gitp() {
+  git add .
+  git commit -m "$*"
+  git push
+}
 export PATH="$HOME/.cargo/bin:$PATH"
 
+clear
